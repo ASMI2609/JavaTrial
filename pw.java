@@ -23,7 +23,7 @@ public void m1(){}
 
 }
 
-
+public staic void main(String args[]){
 
 }
 
